@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://J-Scag.github.io/sitemap.xml 
