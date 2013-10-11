@@ -1,24 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Hello | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Hello | ]]></title>
   <link href="http://J-Scag.github.io/blog/categories/hello/atom.xml" rel="self"/>
   <link href="http://J-Scag.github.io/"/>
-  <updated>2013-09-24T17:38:51-04:00</updated>
+  <updated>2013-10-11T16:04:17-04:00</updated>
   <id>http://J-Scag.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Josh Scaglione]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Haldo World]]></title>
+    <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://J-Scag.github.io/blog/2013/09/24/haldo-world/"/>
     <updated>2013-09-24T17:11:00-04:00</updated>
     <id>http://J-Scag.github.io/blog/2013/09/24/haldo-world</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hello world.&rdquo;</p>
+    <content type="html"><![CDATA[<p><code>ruby
+puts "Hello world!"
+</code></p>
+
+<p>```python
+print &ldquo;Hello world!&rdquo;</p>
+
+<p>```</p>
+
+<p><code>java
+system.out.println "Hello world!"
+</code></p>
+
+<p><code>bash
+echo Hello World!
+</code></p>
 ]]></content>
   </entry>
   

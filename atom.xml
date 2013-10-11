@@ -1,24 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[]]></title>
   <link href="http://J-Scag.github.io/atom.xml" rel="self"/>
   <link href="http://J-Scag.github.io/"/>
-  <updated>2013-09-24T17:38:51-04:00</updated>
+  <updated>2013-10-11T16:04:17-04:00</updated>
   <id>http://J-Scag.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Josh Scaglione]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Haldo World]]></title>
+    <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://J-Scag.github.io/blog/2013/09/24/haldo-world/"/>
     <updated>2013-09-24T17:11:00-04:00</updated>
     <id>http://J-Scag.github.io/blog/2013/09/24/haldo-world</id>
-    <content type="html"><![CDATA[<p>&ldquo;Hello world.&rdquo;</p>
+    <content type="html"><![CDATA[<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='ruby'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Hello world!&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='python'><span class='line'><span class="k">print</span> <span class="s">&quot;Hello world!&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="n">system</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span> <span class="s">&quot;Hello world!&quot;</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class='bash'><span class='line'><span class="nb">echo </span>Hello World!
+</span></code></pre></td></tr></table></div></figure>
+
 ]]></content>
   </entry>
   
